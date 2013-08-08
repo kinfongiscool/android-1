@@ -41,7 +41,7 @@ public class Carousel extends Activity {
     private static Context mContext;
 
     private static CarouselFragment fragment;
-
+//test1
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
